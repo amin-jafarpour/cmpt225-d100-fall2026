@@ -1,0 +1,2 @@
+# cmpt225-d100-fall2026
+SFU's CMPT225 D100 for Fall 2026
